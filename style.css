@@ -1,0 +1,15 @@
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 45vw;
+    left: 5vw;
+    top: 5vh;
+    /*transform: translate(50%, 50%);*/
+}
+div {
+    width: 60px;
+    height: 60px;
+    background-color: darkslateblue;
+    margin: 3px;
+}
